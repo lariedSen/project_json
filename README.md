@@ -1,0 +1,2 @@
+# project_json
+该项目主要是使用Json数据的增删改查和控件listwidget的结合使用，功能简单实效。
